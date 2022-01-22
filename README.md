@@ -1,25 +1,25 @@
-## [py-youtube-downloader-beginner](https://github.com/KABIRAJKABI/py-youtube-downloader-beginner)
+# [py-youtube-downloader-beginner](https://github.com/KABIRAJKABI/py-youtube-downloader-beginner)
 
-# [Author Kabiraj😃](https://github.com/KABIRAJKABI)
+## [Author Kabiraj😃](https://github.com/KABIRAJKABI)
 im a beginner to this kind of things so help me to imporve myself if you find anything wrong 
 
-LIBRARIES USED:
+## LIBRARIES USED:
  1.▶[pytube==11.0.2](https://github.com/pytube/pytube)
  2.🎥[FFMPEG](https://github.com/GyanD/codexffmpeg/releases)
  
-# Requirements:
+## Requirements:
 make sure you have python 3.9 installed
 Winrar to unrar the ffmpeg.rar file
 
-# Requriements.txt(for those who dont use :
+## lib Requriements.txt(for those who dont use :
     pip install pytube>=11.0.1
     pip install progressbar
-# Instructions:
+## Instructions:
 note:this code now works on windows only suports will extedned soon 
 1.unrar ffmpeg.exe  file from into the same folder becasue it is used to merge audio and video in some cases
 2.run the script from terminal/shell/cmd using pyhton pydl.py
 
-# NOTE:for VSCode peoples:
+## NOTE:for VSCode peoples:
    If you run the code using the in-built option Run(run-the-pythonfile) or run in terminal
    you will face error
 
@@ -35,11 +35,11 @@ note:this code now works on windows only suports will extedned soon
  ## code:
        "python.terminal.executeInFileDir": false
 
-   it will in false if the check box i not checked
+   It will be in false because the check box is not checked
    change "false" to "true"
    like below
 ## code:
       "python.terminal.executeInFileDir": true
 
-#Thank You🐍💗
+# Thank You🐍💗
 

@@ -1,9 +1,9 @@
 ## [py-youtube-downloader-beginner](https://github.com/KABIRAJKABI/py-youtube-downloader-beginner)
 
-# [Author "Kabiraj😃"](https://github.com/KABIRAJKABI)
+# [Author Kabiraj😃](https://github.com/KABIRAJKABI)
 im a beginner to this kind of things so help me to imporve myself if you find anything wrong 
 
-##LIBRARIES USED
+LIBRARIES USED:
  1.▶[pytube==11.0.2](https://github.com/pytube/pytube)
  2.🎥[FFMPEG](https://github.com/GyanD/codexffmpeg/releases)
  
@@ -11,7 +11,7 @@ im a beginner to this kind of things so help me to imporve myself if you find an
 make sure you have python 3.9 installed
 Winrar to unrar the ffmpeg.rar file
 
-## Requriements.txt(for those who dont use requirements.txt):
+# Requriements.txt(for those who dont use :
     pip install pytube>=11.0.1
     pip install progressbar
 # Instructions:

@@ -4,7 +4,7 @@
 im a beginner to this kind of things so help me to imporve myself if you find anything wrong 
 
 ## LIBRARIES USED:
- 1.▶[pytube==11.0.2](https://github.com/pytube/pytube)
+ 1.▶[pytube](https://github.com/pytube/pytube)
  2.🎥[FFMPEG](https://github.com/GyanD/codexffmpeg/releases)
  
 ## Requirements:

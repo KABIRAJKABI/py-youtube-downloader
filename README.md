@@ -1,4 +1,4 @@
-# [py-youtube-downloader-beginner](https://github.com/KABIRAJKABI/py-youtube-downloader-beginner)
+# [py-youtube-downloader](https://github.com/KABIRAJKABI/py-youtube-downloader)
 
 ## [Author Kabiraj😃](https://github.com/KABIRAJKABI)
 im a beginner to this kind of things so help me to imporve myself if you find anything wrong 

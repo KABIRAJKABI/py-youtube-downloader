@@ -11,7 +11,7 @@ im a beginner to this kind of things so help me to imporve myself if you find an
 make sure you have python 3.9 installed
 Winrar to unrar the ffmpeg.rar file
 
-## lib Requriements.txt(for those who dont use :
+## lib Requriements.txt(for those who dont use):
     pip install pytube>=11.0.1
     pip install progressbar
 ## Instructions:
@@ -41,5 +41,11 @@ note:this code now works on windows only suports will extedned soon
 ## code:
       "python.terminal.executeInFileDir": true
 
+# Todo
+    1.add simultaneous download
+    2.add GUI
+    3.add song specific options with the meta data present in the descrpiption
+    4.try to use pyffmpeg instead of actual ffmpeg cli
+    
 # Thank You🐍💗
 
